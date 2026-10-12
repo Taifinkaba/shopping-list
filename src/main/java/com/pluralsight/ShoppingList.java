@@ -28,6 +28,7 @@ public class ShoppingList {
         /*
         * system advised using logs so I did
         * printed list
+        *
         * */
         System.out.println(fruits);
     }
